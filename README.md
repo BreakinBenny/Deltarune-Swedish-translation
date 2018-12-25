@@ -3,8 +3,8 @@ Translation of Toby Fox's 2018 game Deltarune, into Swedish.
 
 # How do I use this?
 1. Download the lang_se.json and provided data.win files to your system. (Do back up the original one for safety reasons!)
-2. Place it into Deltarune's directory, normally "SURVEY_PROGRAM\lang"
-3. Go to "C:\Users\%username%\AppData\Local\DELTARUNE", look for '''true_config.ini'''.
+2. Place it into Deltarune's directory, normally '''"SURVEY_PROGRAM\lang"'''
+3. Go to '''"C:\Users\\%username%\AppData\Local\DELTARUNE"''', look for '''true_config.ini'''.
 4. Open the configuration file with Notepad, and change the parameter in LANG to read "se".
 5. Save it. When this step is done, start Deltarune up.
 6. If everything was done correctly, Deltarune should now be in Swedish.
