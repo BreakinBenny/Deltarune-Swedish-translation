@@ -9,3 +9,10 @@ Translation of Toby Fox's 2018 game Deltarune, into Swedish.
 5. Save it. When this step is done, start Deltarune up.
 6. If everything was done correctly, Deltarune should now be in Swedish.
 ??? Hoppas du gilar min svenska översättning! Lämna gärna feedback! (Hope you like my Swedish translation! Do leave feedback on it, too!)
+
+
+
+# Credits
+* Toby Fox for bringing us Deltarune
+* andreyyshore for providing Unicode letters so I could create a data.win for you people to use with your own translations
+* Myself, for translating to Swedish, of course...
