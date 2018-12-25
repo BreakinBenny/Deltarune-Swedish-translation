@@ -14,5 +14,5 @@ Translation of Toby Fox's 2018 game Deltarune, into Swedish.
 
 # Credits
 * Toby Fox for bringing us Deltarune
-* andreyyshore for providing Unicode letters so I could create a data.win for you people to use with your own translations
+* [andreyyshore](https://www.reddit.com/user/andreyyshore/comments/a8851l/deltarune_unicode_test_1/) for providing Unicode letters so I could create a data.win for you people to use with your own translations
 * Myself, for translating to Swedish, of course...
