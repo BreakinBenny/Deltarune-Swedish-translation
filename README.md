@@ -8,7 +8,7 @@ Translation of Toby Fox's 2018 game Deltarune, into Swedish.
 4. Open the configuration file with Notepad, and change the parameter in LANG to read "se".
 5. Save it. When this step is done, start Deltarune up.
 6. If everything was done correctly, Deltarune should now be in Swedish.
-??? Hoppas du gilar min svenska översättning! Lämna gärna feedback! (Hope you like my Swedish translation! Do leave feedback on it, too!)
+??? Hoppas du gillar min svenska översättning! Lämna gärna feedback! (Hope you like my Swedish translation! Do leave feedback on it!)
 
 
 
