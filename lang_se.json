@@ -234,7 +234,6 @@
   "obj_classscene_slash_Step_0_gml_295_0": "\\E4* Det här är den tredje gången den försvunnit^1, och.../",
   "obj_classscene_slash_Step_0_gml_296_0": "\\E9* N-ni vet att jag inte kan börja lektionen utan krita!/%",
   "obj_classscene_slash_Step_0_gml_319_0": "* V-vad sägs om detta^1?&* Om ingen talar högt.../",
-
   "obj_classscene_slash_Step_0_gml_320_0": "* S-så hamnar alla i trubbel!/%",
   "obj_classscene_slash_Step_0_gml_336_0": "* ..^1. Någon^1?&* V..^1. änligen?/",
   "obj_classscene_slash_Step_0_gml_337_0": "\\FN\\TN\\E1* Men^1, det kanske finns en låda i skolgarderoben.../",
@@ -335,8 +334,7 @@
   "obj_schoollobbycutscene_slash_Step_0_gml_805_0": "* Kris^1, om du skolkar^1 kommer din mamma få en hjärtattack./%",
   "obj_readable_room1_slash_Other_10_gml_223_0": "* (Du drack från vattenfontänen.)/",
   "obj_readable_room1_slash_Other_10_gml_225_0": "* Heheh^1, folk sätter sina munnar på det där^1, vet du./%",
-  "obj_readable_room1_slash_Other_10_gml_230_0":
- "* Det var inget UPPMUNTRANDE^1, pucko!/%",
+  "obj_readable_room1_slash_Other_10_gml_230_0": "* Det var inget UPPMUNTRANDE^1, pucko!/%",
   "obj_schoollobbycutscene_slash_Step_0_gml_719_0": "* Jisses^1, kan du gå ännu långsammare, eller?/",
   "obj_schoollobbycutscene_slash_Step_0_gml_720_0": "\\E0* Nä, jag fattar./",
   "obj_schoollobbycutscene_slash_Step_0_gml_721_0": "\\E1* Kanske du inte är van vid att gå runt utan att hålla någon i handen?/",
@@ -564,8 +562,7 @@
   "obj_darkcastle_event_slash_Step_0_gml_460_0": "\\E1* Så POÄNGEN är^2 att du vill slåss mot oss?/",
   "obj_darkcastle_event_slash_Step_0_gml_462_0": "\\E1* Precis!/",
   "obj_darkcastle_event_slash_Step_0_gml_465_0": "\\E3* NU säger du mig något jag förstår./%",
-  "scr_monstersetup_slash_scr_monstersetup_gml_51_0":
- "* Lancer kliver in!",
+  "scr_monstersetup_slash_scr_monstersetup_gml_51_0": "* Lancer kliver in!",
   "scr_monstersetup_slash_scr_monstersetup_gml_32_0": "Lancer",
   "scr_monstersetup_slash_scr_monstersetup_gml_16_0": "Undersöka",
   "scr_monstersetup_slash_scr_monstersetup_gml_50_0": "Komplimang",
@@ -771,8 +768,7 @@
   "obj_dummyenemy_slash_Step_0_gml_270_0": "* Nu när du använder \\cYSKONA\\cW &(\\I4   )-kommandot^1, kan du vinna!/%",
   "obj_dummyenemy_slash_Step_0_gml_282_0": "\\E8* Åh^1, Kris^1, oroa dig inte för det kommandot än!/%",
   "obj_dummyenemy_slash_Step_0_gml_283_0": "\\E6* Du är verkligen barmhärtig^1, är du inte det Kris?/%",
-  "obj_dummyenemy_slash_Step_0_gml_284_0":
- "\\E1* Kris^1, du är medveten om att det bara är en docka^1, eller hur...?/%",
+  "obj_dummyenemy_slash_Step_0_gml_284_0": "\\E1* Kris^1, du är medveten om att det bara är en docka^1, eller hur...?/%",
   "obj_dummyenemy_slash_Step_0_gml_289_0": "\\E0* Kris^1, eftersom du SKONADE en fiende efter en ACT,/",
   "obj_dummyenemy_slash_Step_0_gml_290_0": "\\E1* hade du vunnit i en riktig strid, men, öh.../",
   "obj_dummyenemy_slash_Step_0_gml_291_0": "\\E0* Vill du inte först lära dig andra saker?/%",
@@ -877,8 +873,7 @@
   "scr_text_slash_scr_text_gml_323_0": "* Inte konstigt att Lancer lyckades ta sig igenom.../",
   "scr_text_slash_scr_text_gml_324_0": "\\E1* .../",
   "scr_text_slash_scr_text_gml_325_0": "* Kris, stunden vi går genom den här dörren.../",
-  "scr_text_slash_scr_text_gml_326_0":
- "* kommer vårt äventyr att börja./",
+  "scr_text_slash_scr_text_gml_326_0": "* kommer vårt äventyr att börja./",
   "scr_text_slash_scr_text_gml_327_0": "* En berättelse som förklarades exakt av profetian.../",
   "scr_text_slash_scr_text_gml_328_0": "\\E6* Men^1 Kris^1, jag tror att DINA val är viktiga de också./",
   "scr_text_slash_scr_text_gml_329_0": "\\E0* Den här världen är full av alla sorters folk^1, Kris./",
@@ -991,7 +986,6 @@
   "scr_text_slash_scr_text_gml_404_0": "#Nej",
   "scr_text_slash_scr_text_gml_455_0": "* (Kvarlevorna av tårtan pyrar fortfarande...)/",
   "scr_text_slash_scr_text_gml_472_0": "* (Den trasiga tårtan lades till i dina \\cYNYCKELFÖREMÅL\\cW.)/%",
-
   "scr_text_slash_scr_text_gml_438_0": "* (Du kan inte bära mera.)/%",
   "scr_text_slash_scr_text_gml_483_0": "* (Du bestämde dig att tårta i fickorna är en dålig idé.)/%",
   "scr_text_slash_scr_text_gml_461_0": "* (Kvarlevorna av tårtan pyrar fortfarande...)/%",
@@ -1322,8 +1316,7 @@
   "scr_text_slash_scr_text_gml_1403_0": "* Med förvägsplanering^1 kan då allt hända med fienderna du först MÖTT!/",
   "scr_text_slash_scr_text_gml_1405_0": "\\M1* Hördu^1, vem är MASTERN här^1? Är det jag eller du!?/%",
   "scr_text_slash_scr_text_gml_1382_0": "* Vi ses^1, grabben./%",
-  "obj_npc_sign_slash_Other_10_gml_74_0":
- "* \"Hålets mål\"/",
+  "obj_npc_sign_slash_Other_10_gml_74_0": "* \"Hålets mål\"/",
   "obj_npc_sign_slash_Other_10_gml_75_0": "$1 - Månadshandledning i veckan.&$10 - Veckohandledning i månaden.&$100 - Sluta med handledningar./%",
   "obj_npc_room_slash_Other_10_gml_269_0": "* KUNGEN gav inte oss någon lön för att vara tjänare.../",
   "obj_npc_room_slash_Other_10_gml_270_0": "* Hans son gav oss bara mössor..^1.&* Kliande mössor.../%",
@@ -1432,8 +1425,7 @@
   "obj_shop1_slash_Draw_0_gml_151_0": "\\E3Inte&tillräckligt&med pengar.",
   "obj_shop1_slash_Draw_0_gml_152_0": "\\E3Du&bär med&för mycket.",
   "obj_shop1_slash_Draw_0_gml_153_0": "/*",
-  "obj_shop1_slash_Draw_0_gml_167_0":
- "Köp den för",
+  "obj_shop1_slash_Draw_0_gml_167_0": "Köp den för",
   "obj_shop1_slash_Draw_0_gml_366_0": "$ ?",
   "obj_shop1_slash_Draw_0_gml_367_0": "Ja",
   "obj_shop1_slash_Draw_0_gml_368_0": "Nej",
@@ -1766,8 +1758,7 @@
   "obj_checkers_enemy_slash_Step_0_gml_82_0": "* Kronan är \\cY~1-procent\\cW lös!",
   "obj_checkers_enemy_slash_Step_0_gml_264_0": "Dam",
   "obj_checkers_enemy_slash_Step_0_gml_268_0": "* K.RONA - AT 9 DF 3&* Det var bättre./%",
-  "obj_checkers_enemy_slash_Step_0_gml_296_0":
- "* Du bugade för K.RONA./%",
+  "obj_checkers_enemy_slash_Step_0_gml_296_0": "* Du bugade för K.RONA./%",
   "obj_checkers_enemy_slash_Step_0_gml_327_0": "* Den bugade tillbaka^1.&* Dess krona lossnade lite./%",
   "obj_checkers_enemy_slash_Step_0_gml_330_0": "* Den bugade tillbaka^1.&* Dess krona lossnade lite./",
   "obj_checkers_enemy_slash_Step_0_gml_447_0": "* Sådär ja^1, Kris^1! Om vi kan få av dess krona.../",
@@ -2324,8 +2315,7 @@
   "obj_readable_room1_slash_Other_10_gml_540_0": "* ..!/",
   "obj_readable_room1_slash_Other_10_gml_544_0": "* ..!/",
   "obj_readable_room1_slash_Other_10_gml_547_0": "* ...^1?&* Hur visste du att den var där^1, Kris?/",
-  "obj_readable_room1_slash_Other_10_gml_548_0":
- "\\E6* Du är verkligen otrolig^1, vet du det^1, Kris...?/%",
+  "obj_readable_room1_slash_Other_10_gml_548_0": "\\E6* Du är verkligen otrolig^1, vet du det^1, Kris...?/%",
   "obj_readable_room1_slash_Other_10_gml_559_0": "* (Det verkar inte finnas något mer intressant i trädet.)/%",
   "obj_readable_room1_slash_Other_10_gml_564_0": "* (Det är ett träd som spärrar vägen.)/",
   "obj_readable_room1_slash_Other_10_gml_565_0": "* (Det kanske ser ut som att man kan gå runt^1, men så är det definitivt inte.)/%",
@@ -2644,8 +2634,7 @@
   "obj_thrashafter_follow_slash_Step_0_gml_548_0": "\\E2* Jag har en \\cYspeciell förvandling\\cW för stunder som det här!/",
   "obj_thrashafter_follow_slash_Step_0_gml_550_0": "* V-verkligen!?/",
   "obj_thrashafter_follow_slash_Step_0_gml_552_0": "* Se och lär^1, teamet!!/%",
-  "obj_thrashafter_follow_slash_Step_0_gml_608_0":
- "* Titta^1! \\cYPallformen!/",
+  "obj_thrashafter_follow_slash_Step_0_gml_608_0": "* Titta^1! \\cYPallformen!/",
   "obj_thrashafter_follow_slash_Step_0_gml_610_0": "* ... Allt du gjorde var att sätta dina händer på marken./",
   "obj_thrashafter_follow_slash_Step_0_gml_612_0": "* Hallå^1, var inte så avundsjuk./%",
   "obj_thrashafter_follow_slash_Step_0_gml_723_0": "* Heheh^1, fick den./",
@@ -3094,8 +3083,7 @@
   "scr_text_slash_scr_text_gml_2790_0": " #Skräm",
   "scr_text_slash_scr_text_gml_2793_0": "* Hallå^1! Ni är typerna som klådde upp mig tidigare!/",
   "scr_text_slash_scr_text_gml_2794_0": "* Aldrig i livet att jag förlåter er^1, så gå iväg!/",
-  "scr_text_slash_scr_text_gml_2806_0":
- "* Vi är ledsna^1, vi gjorde ett misstag tidigare./",
+  "scr_text_slash_scr_text_gml_2806_0": "* Vi är ledsna^1, vi gjorde ett misstag tidigare./",
   "scr_text_slash_scr_text_gml_2807_0": "\\E8* Vi lovar att vi inte gör om det!/",
   "scr_text_slash_scr_text_gml_2809_0": "* Va...^1? Ber du om ursäkt^1? Jag antar att jag förlåter dig då.../",
   "scr_text_slash_scr_text_gml_2810_0": "* (Ditt våld mot en enda Rutare har förlåtits!)/%",
